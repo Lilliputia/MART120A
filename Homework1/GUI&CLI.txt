@@ -1,0 +1,9 @@
+Jasmine Jones
+Michael Cassens
+MART 120
+September 3, 2024
+
+
+GUI & CLI
+Homework 1
+GUIs or Graphical User Interfaces use visual elements such as icons, windows and menus to allow users to interact with software on a computer using physical gestures to perform various functions. They are far more user friendly for the average person to complete simpler tasks like surfing the internet or writing a paper, but are limited to what developers allow in their design. Command-Line interfaces (CLI) refers to text-based instructions via keyboard that offer precise control over software and can be far more efficient and functional once specific commands are memorized.
